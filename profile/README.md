@@ -1,9 +1,9 @@
 # Beyond Citadel
 
-![Beyond Citadel](https://store.steampowered.com/app/3371240/Beyond_Citadel/)
+<!-- ![Beyond Citadel](https://store.steampowered.com/app/3371240/Beyond_Citadel/) -->
 
 ## Overview
-Beyond Citadel is an anime-styled retro first-person shooter that pays homage to the classic FPS games of the 1990s. Set for release on January 2, 2025, the game has already garnered overwhelming positive reviews with a 97% approval rating from 748 user reviews.
+[Beyond Citadel](https://beyondcitadel.com/) is an anime-styled retro first-person shooter that pays homage to the classic FPS games of the 1990s. Set for release on January 2, 2025, the game has already garnered overwhelming positive reviews with a 97% approval rating from 748 user reviews.
 
 ## Story
 In a dark future where humanity's last stronghold has fallen, you play as the "Martyr" - humanity's final hope chosen by the Seven Angels. Following a mysterious signal, you must infiltrate a mechanical fortress to uncover hidden truths and overthrow the Trumpeters of the Apocalypse who now control what remains of mankind.
